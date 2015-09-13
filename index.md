@@ -47,6 +47,8 @@ Step by step tutorials
 ###[Umbraco Add ons](Add-ons/index.md)
 Everything you need to know about Forms and Courier, the two premium packages developed and supported by HQ
 
+###[Umbraco as a Service](Umbraco-as-a-Service)
+
 ###[Development Guidelines](Development-Guidelines/index.md)
 How to work with the Umbraco codebase.
 

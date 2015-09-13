@@ -1,0 +1,3 @@
+[submodule "Umbraco-as-a-Service"]
+	path = Umbraco-as-a-Service
+	url = https://github.com/umbraco/.comDocumentation.git
